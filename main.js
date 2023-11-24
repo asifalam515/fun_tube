@@ -19,6 +19,7 @@ const loadDAta = async (id) => {
     showEmpty();
   }
 };
+// async function
 
 const loadCategories = async (id) => {
   activeId = id;
